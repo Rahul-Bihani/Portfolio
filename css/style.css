@@ -502,7 +502,7 @@ body.light hr.separator {
 }
 
 .home .bg {
-  background-image: url(../img/Photo.jpg);
+  background-image: url(../img/cover-img.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
